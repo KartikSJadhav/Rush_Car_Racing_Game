@@ -133,16 +133,13 @@ function checkCollision(px, py, cx, cy) {
 - Endless road racing
 - Dynamic traffic generation
 - Live score tracking
-Game Overview :
-<img width="628" height="585" alt="Car Racing Game" src="https://github.com/user-attachments/assets/bb38c462-7471-44f6-b5d3-1adb3b381cfb" />
 
 
 ## 💥 Crash Screen
 - Animated explosion effect
 - Replay system
 - Best score display
-Game Overview :
-<img width="655" height="584" alt="Crash Screen" src="https://github.com/user-attachments/assets/ff31389d-67ed-4fd3-94e4-c857e4dda31e" />
+
 
 
 ---
