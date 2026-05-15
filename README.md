@@ -192,4 +192,4 @@ Licensed under the **MIT License**.
 **Kartik S Jadhav**
 
 > Built with ❤️ using HTML5 Canvas & JavaScript.
-> Built using Claude.
+# 🧠  Built using Claude.
