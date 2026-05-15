@@ -1,8 +1,9 @@
-# Rush_Car_Racing_Game
-Application for Rush Car Racing Game
-
-````markdown
 # 🏎️ Rush Car Racing Game
+
+<img width="681" height="360" alt="Car Racing Game - Play Free Online Dodge Traffic _ Claude - Google Chrome 2026-05-15 15-20-15" src="https://github.com/user-attachments/assets/9e261b72-b766-4814-ab7d-4027e7ee9e6e" />
+
+
+
 
 A fast-paced and visually immersive **2D Car Racing Game** built using **HTML5 Canvas, CSS, and Vanilla JavaScript**.  
 Dodge incoming traffic, survive longer, and beat your highest score in this neon-inspired arcade racing experience.
@@ -192,4 +193,3 @@ Licensed under the **MIT License**.
 
 > Built with ❤️ using HTML5 Canvas & JavaScript.
 > Built using Claude.
-````
